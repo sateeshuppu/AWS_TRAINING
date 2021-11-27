@@ -2,7 +2,7 @@
 # Magento Default Files    #
 #--------------------------#
 
-*.s
+*.sateesh
 /PATCH_*.sh
 
 /app/etc/local.xml
